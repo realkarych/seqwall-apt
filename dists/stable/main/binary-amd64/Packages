@@ -1,0 +1,18 @@
+Package: seqwall
+Priority: optional
+Section: default
+Installed-Size: 5880
+Maintainer: <runner@fv-az1068-577>
+Architecture: amd64
+Version: 0.0.1
+Filename: pool/main/s/seqwall/seqwall_0.0.1_amd64.deb
+Size: 2460146
+MD5sum: 31d6deec07c09a809acb5d8bb6b6fef1
+SHA1: 50810384d9e5ace44b6c7764954f3a04549fd76f
+SHA256: aea08e8bcdfd880d91ef5eaf4085f7381ba2372984d5d0c15fdadbf6020e7aeb
+SHA512: 06d7aa9ffc4dc87d7d609240b44098662e264506c7a07e2cf38db61426447f2a6bd11dd26a00a7ffafcb428f6a6ba23008ebf1e269987084bc908c583db2bf73
+Description: Sequential firewall for TCP/UDP sequences
+Homepage: https://github.com/realkarych/seqwall
+License: MIT
+Vendor: none
+
