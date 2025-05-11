@@ -2,15 +2,15 @@ Package: seqwall
 Priority: optional
 Section: default
 Installed-Size: 7588
-Maintainer: <runner@fv-az1340-599>
+Maintainer: <runner@fv-az1361-359>
 Architecture: amd64
-Version: 0.0.4
-Filename: pool/main/s/seqwall/seqwall_0.0.4_amd64.deb
-Size: 3087318
-MD5sum: cf377fb85724cb8c4ecda3ee0ebb9689
-SHA1: e36a4370ab1bcd1454a66eb1247f3f1034cf37bf
-SHA256: 257456bb618ba11d432de77ca5dd4f175ebb361a89871466206af492f71fbe80
-SHA512: 4102fb229d01dacb53f6b9a87deaca28eaf62c4605d87fd264ea2a74fa6aacbd6c0b5ea2738ddb52ef2b481f02795244ce0ec386dea05f3d0f7cfdf80bfa8af0
+Version: 0.1.0
+Filename: pool/main/s/seqwall/seqwall_0.1.0_amd64.deb
+Size: 3087386
+MD5sum: 79e1bd66099bb1872154db66289fb611
+SHA1: 814dbf661a476afc630ef4ba8a056a64f213c9a1
+SHA256: 508b64d27f46183fb0fcd3e0c7b4cf207f600dc54a2fbb3ac1000be4fb0d4b5e
+SHA512: c2123e644801bd2ae9d30eb45a3b1a7f00505c848fd5643ac976afeb35540fc5f7238cc2ed7a5c5603d56f7248a3044ff365f88fa2508b1330045f9a004b7353
 Description: Testing tool for PostgreSQL migrations
 Homepage: https://github.com/realkarych/seqwall
 License: MIT
